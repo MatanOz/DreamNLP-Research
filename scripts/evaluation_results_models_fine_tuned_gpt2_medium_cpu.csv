@@ -1,0 +1,124 @@
+Dream,Freud Interpretation,Model Interpretation,BLEU,ROUGE,Perplexity,BERTScore
+Falling from a great height,"dream: falling from a great height
+interpretation: to dream that you are falling signifies fear of losing control or failing in life.","dream: falling from a great height
+interpretation: to see or dream that you are falling down indicates your need to be more grounded and rational. you may feel trapped in some situation, unable move forward with life's journey because of the obstacles",0.2534684260065973,0.4615384615384615,35.936448602231806,0.730703592300415
+Being naked in public,"dream: being naked in public
+interpretation: to see that you are naked in public suggests feelings of vulnerability or exposure.","dream: being naked in public
+interpretation: to see or be nude on a stage represents your innermost feelings and desires. you are expressing yourself more freely than you have been previously, especially if the nudity is for an audience of some sort",0.18460744521700595,0.3548387096774194,323.8650262219678,0.6906691193580627
+Flying,"dream: flying
+interpretation: dreaming of flying symbolizes a desire for freedom or escape from constraints.","dream: flying
+interpretation: to dream that you are flying implies your ability to adapt and overcome obstacles. you may be able take on any situation at a moment's notice or in an emergency.",1.6899545172934427e-78,0.28571428571428564,,0.6299179792404175
+Teeth falling out,"dream: teeth falling out
+interpretation: if you dream about losing your teeth, it represents anxiety about appearance or communication.","dream: teeth falling out
+interpretation: to see or eat your teeth in a dream indicates that you are feeling insecure about some aspect of yourself. you may be trying to hide something from others and/or the world. alternatively, it",0.10753822766379068,0.30508474576271183,967.989511936373,0.67336505651474
+Death,"dream: death
+interpretation: to dream that you or someone else has died symbolizes change or transition rather than literal death.","dream: death
+interpretation: to dream that you are dying refers to your feelings of helplessness and death. you feel trapped in some situation or relationship where there is no escape from it. alternatively, the dreaming may be a metaphor for something",0.14518873653998146,0.29508196721311475,,0.6542786359786987
+Exams or tests,"dream: exams or tests
+interpretation: seeing yourself taking an exam in a dream reflects feelings of being judged or evaluated in waking life.","dream: exams or tests
+interpretation: to see an exam in your dream indicates that you need to be more specific and direct with some situation. you may not always know what is going on inside yourself, especially if it relates back into",0.11261117768451277,0.3384615384615384,1603.9057834234961,0.6514800786972046
+Being chased,"dream: being chased
+interpretation: to dream that you are being chased indicates avoiding a problem or fear in waking life.","dream: being chased
+interpretation: to be pursued by a predator represents your need to escape from the stresses of daily life. you are seeking refuge in some unknown place or situation where you can feel safe and protected against all manner  ",0.10794573109024275,0.26229508196721313,628995.3354731009,0.6544922590255737
+Drowning,"dream: drowning
+interpretation: if you see yourself drowning, it may symbolize overwhelming emotions or a sense of helplessness.","dream: drowning
+interpretation: to dream that you are drowning represents your subconscious. you may be feeling overwhelmed or helpless in some situation. alternatively, the dreaming state is a metaphor for death and decay.",1.7563526234704057e-78,0.3529411764705882,129.69150059255804,0.7106822729110718
+Being late,"dream: being late
+interpretation: dreaming of being late suggests stress or fear of missing out on opportunities.","dream: being late
+interpretation: to be ""late"" in a relationship means that you are not taking advantage of your opportunities. you need to take more time for yourself and let others do the work for him/her!",0.07103702656973529,0.29629629629629634,1036555.4707650678,0.5845550298690796
+Being lost,"dream: being lost
+interpretation: to see that you are lost in a dream represents confusion, uncertainty, or a lack of direction in life.","dream: being lost
+interpretation: to be in a state of being ""lost"" implies that you are feeling disconnected from others and unable to connect with them. you may feel like there is something missing or lacking in your life.",0.14116951041404782,0.3870967741935484,61961.90594374943,0.6962877511978149
+Driving an out-of-control vehicle,"dream: driving an out-of-control vehicle
+interpretation: to dream that you are driving an uncontrollable vehicle signifies fears of losing control in real life.","dream: driving an out-of-control vehicle
+interpretation: to drive a car in your dream represents the power of control and authority. you are able to move forward with decisions or goals without fear of being criticized for making them. alternatively",0.17425278978576367,0.42424242424242425,13.272747988663802,0.7011489272117615
+Meeting a deceased loved one,"dream: meeting a deceased loved one
+interpretation: seeing a deceased loved one in a dream could signify unresolved emotions or a need for closure.","dream: meeting a deceased loved one
+interpretation: to see or meet someone who has passed away in your dream symbolizes the end of an era. you are experiencing some sadness and loss that you have been avoiding for too long, especially if",0.14888606314762867,0.33333333333333337,104.50174578200672,0.6498478055000305
+Pregnancy,"dream: pregnancy
+interpretation: dreaming of pregnancy symbolizes creativity, new beginnings, or personal growth.","dream: pregnancy
+interpretation: to see a pregnant woman in your dream symbolizes fertility, new beginnings and the birth of an ideal child. alternatively it refers to some aspect or situation that you are experiencing difficulties with at this time.",1.5438518937248665e-78,0.3076923076923077,8112.053023255944,0.6758865714073181
+Being unable to speak,"dream: being unable to speak
+interpretation: if you dream about losing your voice, it may indicate feelings of repression or being unheard.","dream: being unable to speak
+interpretation: to be able only to hear or see your own voice in dream represents a lack of self-awareness. you are not expressing yourself clearly enough and you need more time with others around the same age",0.12519775678207912,0.27692307692307694,269.8720814541723,0.6490441560745239
+Fire,"dream: fire
+interpretation: to dream that something is on fire represents passion, transformation, or destruction.","dream: fire
+interpretation: to see or use a fire extinguisher in your dream symbolizes warmth and comfort. you need to be more aware of the situation around you, especially if it is an emergency. alternatively this may mean that there",0.07044026160349176,0.21818181818181814,,0.6021699905395508
+Water,"dream: water
+interpretation: seeing water in a dream often reflects emotions, subconscious thoughts, or cleansing.","dream: water
+interpretation: to see or dream that you are in the water symbolizes your calmness and tranquility. you need to be more grounded, especially if it is a cold winter day. alternatively , this metaphor refers back home",1.596259965483422e-78,0.22641509433962267,,0.5837741494178772
+Animals attacking,"dream: animals attacking
+interpretation: to dream about animals attacking signifies inner fears, instincts, or unresolved conflicts.","dream: animals attacking
+interpretation: to see an animal in your dream represents aggression and hostility toward others. you are feeling insecure about yourself or you feel that someone is trying to take advantage of, control over ,or manipulate/control the situation",0.09672702430606295,0.28070175438596495,20311.808801638927,0.6312911510467529
+Being trapped,"dream: being trapped
+interpretation: dreaming of being trapped could symbolize feeling stuck in a situation or relationship.","dream: being trapped
+interpretation: to be stuck in a situation means that you are unable to move on. you feel confined and restricted by your circumstances.",0.1808713155931068,0.41860465116279066,444997.9893059659,0.7006605267524719
+Finding hidden rooms,"dream: finding hidden rooms
+interpretation: to see hidden rooms in a dream suggests self-discovery or unlocking new potential.","dream: finding hidden rooms
+interpretation: to see or dream that you are in a room indicates your need to be more open and honest with yourself. you may feel trapped by some situation, relationship issue etc..",0.1816725573641283,0.32727272727272727,256203.3562545069,0.6627666354179382
+Losing something valuable,"dream: losing something valuable
+interpretation: dreaming of losing an object signifies anxiety about loss or personal insecurity.","dream: losing something valuable
+interpretation: to lose a piece of jewelry or other precious item in your dream suggests that you are losing control over some situation. you may be feeling overwhelmed and unable to make decisions for yourself. alternatively, the",0.09427624888579822,0.24137931034482757,527.375021393621,0.6469133496284485
+Shadows or dark figures,"dream: shadows or dark figures
+interpretation: to dream that you are surrounded by shadows symbolizes repressed emotions, fears, or the unknown.","dream: shadows or dark figures
+interpretation: to see a shadow in your dream represents some aspect of yourself that you are hiding. you may be afraid to confront these feelings and issues within yourself because it will make the situation worse. alternatively,",0.1711319828158902,0.38095238095238093,1208.3494451968622,0.6788918375968933
+Being in an old house,"dream: being in an old house
+interpretation: if you dream of an old house, it represents revisiting past experiences or memories.","dream: being in an old house
+interpretation: to dream that you are living a century or more ago implies your past experiences and memories. you may be experiencing some of the same feelings as someone who is still alive, but has passed away",0.16038864535020847,0.34375,103.67575135555755,0.6926646828651428
+Climbing stairs,"dream: climbing stairs
+interpretation: to dream that you are climbing stairs signifies progress, achievement, or spiritual growth.","dream: climbing stairs
+interpretation: to see or climb a staircase in your dream represents the upward journey of life. you are ascending to higher levels of consciousness and understanding, especially if you have never done so before! alternatively it symbolizes",0.10533275933768531,0.2807017543859649,356.14402602485427,0.6647255420684814
+Descending stairs,"dream: descending stairs
+interpretation: dreaming of going down stairs may represent setbacks, regression, or going deeper into the subconscious.","dream: descending stairs
+interpretation: to see or dream that you are descending a staircase indicates your need to move forward in life. you may be feeling stuck and unable for direction, but also feel like there is something out of reach if",0.06288149902199816,0.19672131147540983,641.5775915185018,0.6175522804260254
+Mirrors,"dream: mirrors
+interpretation: to see yourself in a mirror signifies self-reflection, identity, or personal perception.","dream: mirrors
+interpretation: to see or wear a mirror in your dream represents the reflection of yourself back to you. you are reflecting on some aspect, situation and/or relationship that has been bothering / bothered others for years. alternatively",0.11103047724581815,0.32727272727272727,163.56795437343794,0.653278648853302
+Storms or tornadoes,"dream: storms or tornadoes
+interpretation: if you dream about a storm, it reflects emotional turmoil, chaos, or sudden change.","dream: storms or tornadoes
+interpretation: to see a storm in your dream symbolizes the changing of seasons and changes that are occurring. you need to be more aware of these things happening around you at any given time.",0.10203198615804732,0.2807017543859649,120.36149673801971,0.6688108444213867
+Earthquakes,"dream: earthquakes
+interpretation: dreaming of an earthquake may symbolize instability, life changes, or insecurity.","dream: earthquakes
+interpretation: to see or dream that you are in an earthquake indicates a situation where your emotions have been overwhelmed. you may be feeling emotionally drained and/or physically exhausted from the stresses of daily life, especially if it",1.7324546281206212e-78,0.29090909090909095,74.14641485597157,0.6171659827232361
+Seeing someone crying,"dream: seeing someone crying
+interpretation: to see someone crying in a dream indicates empathy, guilt, or emotional awareness.","dream: seeing someone crying
+interpretation: to see or dream that someone is in pain indicates a situation where you need to be more decisive and direct. you are feeling helpless, powerless etc..",0.20619276306926465,0.39999999999999997,17333.775465350627,0.6678445339202881
+Laughter,"dream: laughter
+interpretation: dreaming of laughter represents joy, release, or covering up deep emotions.","dream: laughter
+interpretation: to laugh at something in your dream indicates that you are being too hard on yourself. you need to let go of some past issues and move forward with a positive outlook. alternatively, laughing suggests the ability for",1.2916102737508568e-78,0.18181818181818182,2122.3601831622973,0.5718263387680054
+Being in a hospital,"dream: being in a hospital
+interpretation: if you dream about being in a hospital, it signifies healing, self-care, or unresolved health concerns.","dream: being in a hospital
+interpretation: to dream that you are being hospitalized suggests some emotional or physical issue is weighing on your mind. you may be feeling overwhelmed and/or helpless at times.",0.1572175759719851,0.3508771929824562,241.52173218738054,0.6584666967391968
+Food,"dream: food
+interpretation: to dream about eating food represents nourishment, emotional satisfaction, or indulgence.","dream: food
+interpretation: to dream that you are eating food represents your need to eat and be satisfied. you may also want more of the same or a different type dish for some reason, especially if it is fresh out from an indian",0.10989565913846457,0.31578947368421056,,0.614160418510437
+Wearing the wrong clothes,"dream: wearing the wrong clothes
+interpretation: seeing yourself in inappropriate clothing signifies insecurity, embarrassment, or feeling out of place.","dream: wearing the wrong clothes
+interpretation: to see or wear a different outfit in your dream indicates that you are not taking care of yourself. you need to be more self-sufficient and independent. alternatively, wearing an old suit suggests",0.1286057341226582,0.30508474576271183,60.99495808175951,0.6439324617385864
+Missing a flight or train,"dream: missing a flight or train
+interpretation: dreaming of missing a flight reflects fear of missed opportunities or time anxiety.","dream: missing a flight or train
+interpretation: to see an airplane in your dream represents the journey you are on. you need to take advantage of all opportunities that may be presented before you make it back home. alternatively, dreaming about missing",0.14888606314762867,0.3225806451612903,887.8494114504474,0.6645185351371765
+An intruder,"dream: an intruder
+interpretation: if you dream of an intruder in your home, it may symbolize external threats, fears, or self-doubt.","dream: an intruder
+interpretation: to see an intruding person in your dream represents a situation that you are not ready to confront. you may be afraid of confronting the issue or even acknowledging it yourself. alternatively, dreaming about someone who is",0.08087891600390013,0.31746031746031744,1156411478.2405436,0.6460639238357544
+Childhood homes,"dream: childhood homes
+interpretation: to dream of your childhood home represents nostalgia, unresolved childhood issues, or comfort.","dream: childhood homes
+interpretation: to dream that you are a child indicates your need to be nurtured and protected. you may feel helpless in some situation or have no control over it. alternatively, the dreaming represents childhood memories of being sheltered",0.12836983144668712,0.3103448275862069,13432.62415779507,0.6299182772636414
+Rain,"dream: rain
+interpretation: seeing rain in a dream signifies sadness, renewal, or emotional cleansing.","dream: rain
+interpretation: to dream that you are in a rainstorm refers to your need for calmness and tranquility. you may be feeling overwhelmed by emotions or feelings of anger, sadness etc..",1.9905940418122936e-78,0.26086956521739124,,0.6516153812408447
+Bright light,"dream: bright light
+interpretation: to dream of a bright light represents enlightenment, guidance, or hope.","dream: bright light
+interpretation: to see a bright, white or red glow in your dream represents the sun. it is also symbolic of renewal and new beginnings. alternatively it refers to some aspect (or person) that you are not seeing",0.1022763758993479,0.3272727272727273,34526470.96630111,0.6690816879272461
+Tunnels,"dream: tunnels
+interpretation: dreaming of a tunnel signifies transitions, birth, or searching for a way out.","dream: tunnels
+interpretation: to see or use a tunnel in your dream symbolizes the passage of time. you are moving forward toward some goal and achieving it with ease, even though you may be experiencing difficulties along its way (see",1.7324546281206212e-78,0.21428571428571425,203.6939133928843,0.6015570759773254
+Ghosts,"dream: ghosts
+interpretation: seeing ghosts in a dream may represent the past, unresolved issues, or hidden fears.","dream: ghosts
+interpretation: to see or dream that you are a ghost refers to your subconscious. you may be experiencing some emotional distress and/or fear in the waking world.",2.067398923401408e-78,0.3404255319148936,3906.8542336599685,0.6447874903678894
+Doors,"dream: doors
+interpretation: dreaming of doors symbolizes opportunities, choices, or transitions in life.","dream: doors
+interpretation: to see or open a door in your dream indicates that you are ready to move on. you need time for reflection and healing before moving forward with life. alternatively, the dreaming of doors suggests some unresolved issue which",2.196068827673299e-78,0.21818181818181817,2579.9062175911727,0.6164612174034119
+Someone disappearing,"dream: someone disappearing
+interpretation: to dream that someone disappears signifies loss, abandonment fears, or relationship concerns.","dream: someone disappearing
+interpretation: to see someone disappear in your dream represents a change or transformation. you are experiencing some emotional turmoil and need to let go of old habits. alternatively, the person may be gone for good because they have been",0.09194664155364932,0.27586206896551724,247903082.50470963,0.6376319527626038
