@@ -93,14 +93,6 @@ Interpretation: To dream that you are flying represents a desire for freedom and
 - GPT-2 Medium (Fine-Tuned) performs best, balancing fluency and accuracy.
 - GPT-2 Small (Fine-Tuned) is less stable due to overfitting.
 
-## Citation
-If you use this project in your research, please cite:
-```bibtex
-@article{gpt2_dreams_2024,
-  title={Fine-Tuning GPT-2 for Freud-Based Dream Interpretation},
-  author={Matan Oz, Din Kosberg},
-  year={2025},
-}
 ```
 
 ## Future Work
@@ -110,3 +102,7 @@ If you use this project in your research, please cite:
 
 ## Contact & Contributions
 Feel free to submit pull requests or reach out for collaborations.
+
+Special Thanks
+
+A thank you to Dr. Sharon Yalov-Handzel for her guidance, support, and insights throughout this project.
