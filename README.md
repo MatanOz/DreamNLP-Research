@@ -102,6 +102,6 @@ Interpretation: To dream that you are flying represents a desire for freedom and
 ## Contact & Contributions
 Feel free to submit pull requests or reach out for collaborations.
 
-Special Thanks
+## Special Thanks
 
 A thank you to Dr. Sharon Yalov-Handzel for her guidance, support, and insights throughout this project.
